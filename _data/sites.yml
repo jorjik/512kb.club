@@ -28,7 +28,12 @@
   size: 163
   last_checked: 2021-05-23
 
-- domain: 60z.github.io
+- domain: 2donow.site
+  url: http://2donow.site/ 
+  size: 411
+  last_checked: 2021-07-15 
+  
+  - domain: 60z.github.io
   url: https://60z.github.io/
   size: 16.2
   last_checked: 2021-05-18
@@ -1443,8 +1448,3 @@
   size: 27
   last_checked: 2021-05-18
 
-- domain: 2donow.site
-  url: http://2donow.site/ 
-  size: 411
-  last_checked: 2021-07-15 
-  
